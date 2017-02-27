@@ -4,15 +4,13 @@ body{
 .lightbox__embedBar{
 display:none!important;
 }
-#lightbox__embedBar{
-display:none!important;
-}
+
 .lightbox__embedBar .lightbox__pagination{
     margin:0 auto;position:relative;right:0;bottom:0;background:none;
 }
 
 .lightbox__embedBar{
-    border-top:1px solid rgba(0,0,0,.075);margin-top:-1px;display:none;display:none;position:relative
+    border-top:1px solid rgba(0,0,0,.075);margin-top:-1px;display:none;display:none!important;position:relative;
 }
 .lightbox__embedBar .lightbox__pagination{
     color:#4d4d4d
