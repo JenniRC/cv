@@ -1,3 +1,6 @@
 .lightbox__embedBar{
-display:none;
+display:none!important;
+}
+#lightbox__embedBar{
+display:none!important;
 }
