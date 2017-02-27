@@ -7,20 +7,21 @@ display:none!important;
 
 .lightbox__embedBar .lightbox__pagination{
     margin:0 auto;position:relative;right:0;bottom:0;background:none;
+    display:none!important;
 }
 
 .lightbox__embedBar{
-    border-top:1px solid rgba(0,0,0,.075);margin-top:-1px;display:none;display:none!important;position:relative;
+display:none!important;
 }
 .lightbox__embedBar .lightbox__pagination{
-    color:#4d4d4d
+display:none!important;
 }
 .lightbox__madeInCanva{
-    position:absolute;right:15px;top:8px
+display:none!important;
 }
 .lightbox__madeInCanva img{
-    padding:0 0 7px 10px;vertical-align:middle
+display:none!important;
 }
 .lightbox__madeInCanva a{
-    vertical-align:middle;font-size:12px;color:#9fa2a8;text-decoration:none
+display:none!important;
 }
