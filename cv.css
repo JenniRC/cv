@@ -1,3 +1,6 @@
+body{
+    background-repeat: no-repeat;
+}
 .lightbox__embedBar{
 display:none!important;
 }
