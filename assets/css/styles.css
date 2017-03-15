@@ -259,6 +259,7 @@ p {
     position: static;
     width: inherit;
     background-color: rgb(230, 120, 186, 0.4);
+    color:whitesmoke!important;
   }
   .main-wrapper {
     padding: 30px;
